@@ -1,0 +1,3 @@
+[submodule "MERN-RoomSharingApp-frontend"]
+	path = MERN-RoomSharingApp-frontend
+	url = https://github.com/rakshithsgowda/MERN-RoomSharingApp-frontend.git
